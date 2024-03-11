@@ -51,5 +51,5 @@ int main()
     printf("\n SEARCH VALUE NOT FOUND");
     return 0;
   
-}
+}\\
 
