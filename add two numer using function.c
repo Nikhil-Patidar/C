@@ -81,4 +81,4 @@ int add(int a,int b) // function defination
     int c;
     c=a+b;
     return(c);
-}\\
+}
