@@ -67,5 +67,4 @@ int main()
 	printf("\n TOTAL EVEN NUMBER=%d",even);
 	printf("\n TOLAT ODD NUMBER=%d",odd);
 	return 0;
-}
-//
+}///
