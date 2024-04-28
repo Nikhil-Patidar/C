@@ -68,3 +68,4 @@ int main()
 	printf("\n TOLAT ODD NUMBER=%d",odd);
 	return 0;
 }
+//
