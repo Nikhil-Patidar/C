@@ -16,7 +16,3 @@ int main()
 	printf("NOT ARMSTRONG NUMBER");
 	return 0;
 }
-
-
-
-
