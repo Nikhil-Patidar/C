@@ -12,4 +12,3 @@ int main()
 	printf("%d\n",a[i]);
 	return 0;	
 }
-
